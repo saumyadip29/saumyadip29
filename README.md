@@ -16,6 +16,10 @@
   * M.Sc. in Statistics
  
 ## Connect with me ##
-[<img alt="alt_text" src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](www.google.com)
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+<p>
+  <a href="http://google.com" title="Redirect to homepage">
+    <img src="[image_url_link/image.png](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="homepage"/>
+  </a>
+</p>
