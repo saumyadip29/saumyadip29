@@ -17,7 +17,7 @@
  
 ## Connect with me ##
 <p>
-  <a href="saumyadipbhowmick1@gmail.com" title="gmail">
+  <a href="mailto:saumyadipbhowmick1@gmail.com" title="gmail">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/saumyadip-bhowmick-446811190/" title="linkedin">
