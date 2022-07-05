@@ -18,12 +18,12 @@
 ## Connect with me ##
 <p>
   <a href="saumyadipbhowmick1@gmail.com" title="gmail">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="homepage"/>
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/saumyadip-bhowmick-446811190/" title="linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100010620524057" title="linkedin">
+  <a href="https://www.facebook.com/profile.php?id=100010620524057" title="facebook">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
 </p>
