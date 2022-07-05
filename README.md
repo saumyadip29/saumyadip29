@@ -6,11 +6,11 @@
   
 ## Education ##
 
-* Ramakrishna Missiion Vidyapith, Purulia
-  * WBBSE(2009-2015)
-* Ramakrishna Missiion Vidyapith, Narendrapur
-  * WBCHSE(2015-2017)
-* Presidency University, Kolkata
-  * B.Sc. in Statistics(2017-2020)
-* IIT Kanpur
-  * M.Sc. in Statistics(2020-2022)
+* Ramakrishna Missiion Vidyapith, Purulia(2009-2015)
+  * WBBSE
+* Ramakrishna Missiion Vidyapith, Narendrapur(2015-2017)
+  * WBCHSE
+* Presidency University, Kolkata(2017-2020)
+  * B.Sc. in Statistics
+* IIT Kanpur(2020-2022)
+  * M.Sc. in Statistics
